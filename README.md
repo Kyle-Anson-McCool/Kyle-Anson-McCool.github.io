@@ -1,6 +1,6 @@
 # Kyle McCool — Portfolio
 
-Live: https://kyle-anson-mccool.github.io/
+Live: https://kyle-mccool.github.io/
 
 Static portfolio / resume site for Kyle McCool. Co-Founder of Makko AI, Phantomline, and ProLocalBuilder. Based in Appleton, Wisconsin.
 
